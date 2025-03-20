@@ -20,10 +20,10 @@ Squidz is a frontend project that highlights:
 ---  
 ## Screenshots  
 ### Home Page:  
-![Screenshot 1](./assets/img/Screenshots/ss1.png)  
-![Screenshot 2](./assets/img/Screenshots/ss2.png)  
-![Screenshot 3](./assets/img/Screenshots/ss3.png)  
-![Screenshot 4](./assets/img/Screenshots/ss4.png)  
+![Screenshot 1](./Screenshots/ss1.png)  
+![Screenshot 2](./Screenshots/ss2.png)  
+![Screenshot 3](./Screenshots/ss3.png)  
+![Screenshot 4](./Screenshots/ss4.png)  
 
 ---  
 ## Technologies Used  
