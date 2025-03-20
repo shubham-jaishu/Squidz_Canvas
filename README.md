@@ -43,12 +43,12 @@ Squidz is a frontend project that highlights:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/shubham-jaishu/Squidz_Canvas.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd squidz  
+   cd Squidz_Canvas
 
    ```
 
